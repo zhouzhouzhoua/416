@@ -1,0 +1,66 @@
+cd 切换目录
+ls  查看目录文件
+    -a 查看所有隐藏文件
+    -l  查看文件权限
+pwd 查看所在的路径
+cp  复制文件  cp  源文件  新文件
+mv  移动目录或文件   mv 源文件  新文件
+chown 拥有着：用户组  文件
+
+touch  创建文件 比如.php
+
+vi/vim
+
+cat  查看文件内容
+
+
+ps -aux  查看所有的用户进程
+
+netstat -anp 查看所有的端口号
+
+tar -zxvf  解压
+
+tar -zcvf  压缩
+
+who  查看当前用户
+
+
+uptime 查看系统运行多长时间
+
+
+du -h  查看文件和目录的磁盘占用的空间 /大小
+
+df   查看文件和目录的磁盘使用空间
+
+
+find  查找文件    比如  find / 文件/目录
+
+ 
+kill  -9  pid   杀死进程
+
+
+
+init 0   关机
+halt  关机
+poweroff  关机
+
+shutdown -r now reboot  重启
+  
+
+shutdown -h now  关机
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
